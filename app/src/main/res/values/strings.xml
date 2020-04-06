@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Noble Prize</string>
+    <string name="listnoble">All winner\'s list</string>
+    <string name="select">Select the option to</string>
+    <string name="view">View the Noble Prize winner\'s</string>
+    <string name="top">People with more Noble Prize\'s</string>
+    <string name="filter">Filter</string>
+    <string name="ok">Ok</string>
+    <string name="open">Open</string>
+</resources>

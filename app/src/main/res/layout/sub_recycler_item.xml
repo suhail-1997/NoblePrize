@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:paddingTop="@dimen/eightdp"
+    android:paddingBottom="@dimen/eightdp"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/winnername"
+        android:textColor="@color/textPrimary"
+        android:textSize="@dimen/sixteensp"
+        android:hint="Sample Name"
+        android:fontFamily="@font/voltaire"
+        android:layout_marginStart="@dimen/eightdp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/motivation"
+        android:textColor="@color/textSecondary"
+        android:textSize="@dimen/sixteensp"
+        android:fontFamily="@font/voltaire"
+        android:hint="for the development of lithium-ion batteries"
+        android:layout_marginStart="@dimen/eightdp"
+        android:layout_marginTop="@dimen/eightdp"/>
+
+</LinearLayout>

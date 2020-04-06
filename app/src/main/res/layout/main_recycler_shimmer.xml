@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="@drawable/search_button"
+    android:layout_margin="4dp"
+    android:elevation="1dp"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/eightdp"
+        android:background="@color/placeholder"/>
+    <TextView
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:background="@color/placeholder"
+        android:layout_marginStart="@dimen/eightdp"
+        android:layout_marginTop="@dimen/sixteendp"/>
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:background="@color/placeholder"
+        android:layout_marginStart="@dimen/eightdp"
+        android:layout_marginTop="@dimen/eightdp"/>
+    <TextView
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:background="@color/placeholder"
+        android:layout_marginStart="@dimen/eightdp"
+        android:layout_marginTop="@dimen/eightdp"/>
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:background="@color/placeholder"
+        android:layout_marginStart="@dimen/eightdp"
+        android:layout_marginTop="@dimen/eightdp"/>
+    <TextView
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:background="@color/placeholder"
+        android:layout_marginStart="@dimen/eightdp"
+        android:layout_marginTop="@dimen/eightdp"/>
+    <TextView
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        android:background="@color/placeholder"
+        android:layout_marginBottom="@dimen/eightdp"
+        android:layout_marginStart="@dimen/eightdp"
+        android:layout_marginTop="@dimen/eightdp"/>
+
+
+</LinearLayout>
